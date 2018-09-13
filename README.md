@@ -1,4 +1,4 @@
-# [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python)
+# 🐍 [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python)
 
 **Coursework for MIT - Introduction to Computer Science and Programming Using Python on edX**
 
@@ -19,9 +19,9 @@
   - Problem 3: [Using Bisection Search to Make the Program Faster](https://github.com/jpacsai/MIT_IntroToCS/blob/master/Week2/ProblemSet_2/Problem3.py)
 
 ## Week 3 - Structured Types
-- [x] Lecture 5 – Tuples and Lists
-- [x] Lecture 6 – Dictionaries
-- [x] **Problem Set 3:**
+- [ ] Lecture 5 – Tuples and Lists
+- [ ] Lecture 6 – Dictionaries
+- [ ] **Problem Set 3:**
   - Problem 1: Is the Word Guessed
   - Problem 2: Printing Out the User's Guess
   - Problem 3: Printing Out all Available Letters
