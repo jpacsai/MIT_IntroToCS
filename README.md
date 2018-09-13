@@ -12,11 +12,11 @@
 
 ## Week 2 - Simple Programs
 - [x] Lecture 3 – Simple Algorithms
-- [ ] Lecture 4 – Functions
-- [ ] **Problem Set 2:**
-  - Problem 1: Paying Debt off in a Year - balance
-  - Problem 2: Paying Debt off in a Year - min monthly payment
-  - Problem 3: Using Bisection Search to Make the Program Faster
+- [x] Lecture 4 – Functions
+- [x] **Problem Set 2:**
+  - Problem 1: [Paying Debt off in a Year - balance](https://github.com/jpacsai/MIT_IntroToCS/blob/master/Week2/ProblemSet_2/Problem1.py)
+  - Problem 2: [Paying Debt off in a Year - min monthly payment](https://github.com/jpacsai/MIT_IntroToCS/blob/master/Week2/ProblemSet_2/Problem2.py)
+  - Problem 3: [Using Bisection Search to Make the Program Faster](https://github.com/jpacsai/MIT_IntroToCS/blob/master/Week2/ProblemSet_2/Problem3.py)
 
 <!--
 Lecture 5 – Tuples and Lists:
