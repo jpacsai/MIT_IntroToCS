@@ -44,9 +44,10 @@ monthlyPaymentRate = 0.04
 
 monthlyInterest = annualInterestRate / 12
 
-for x in range(0,12):
+for x in range(12):
     minPayment = balance * monthlyPaymentRate
     unpaid = balance - minPayment
     newBalance = unpaid + monthlyInterest * unpaid
     balance = newBalance
+    
 print(str(round(balance, 2)))

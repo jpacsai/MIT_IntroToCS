@@ -41,7 +41,7 @@ bal = balance
 while bal > 0:
     bal = balance
     x += 10
-    for i in range(0,12):
+    for i in range(12):
         bal = bal - x + ((bal - x) * monthlyInterest)
         
 print('Lowest Payment: ' + str(x))
