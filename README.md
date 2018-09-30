@@ -19,67 +19,22 @@
   - Problem 3: [Using Bisection Search to Make the Program Faster](https://github.com/jpacsai/MIT_IntroToCS/blob/master/Week2/ProblemSet_2/Problem3.py)
 
 ## Week 3 - Structured Types
-- [ ] Lecture 5 – Tuples and Lists
-- [ ] Lecture 6 – Dictionaries
-- [ ] **Problem Set 3:**
+- [x] Lecture 5 – Tuples and Lists
+- [x] Lecture 6 – Dictionaries
+- [x] **Problem Set 3:**
   - Problem 1: Is the Word Guessed
   - Problem 2: Printing Out the User's Guess
   - Problem 3: Printing Out all Available Letters
-  - Problem 4: The Game
-  
-<!--
-Lecture 5 – Tuples and Lists:
-• Tuples
-• Lists
-• List Operations
-• Mutation, Aliasing, Cloning
-Lecture 6 – Dictionaries:
-• Functions as Objects
-• Dictionaries
-• Example with a Dictionary
-• Fibonacci and Dictionaries
-• Global Variables
-Lecture 7 – Debugging:
-• Programming Challenges
-• Classes of Tests
-• Bugs
-• Debugging
-• Debugging Examples
-Lecture 8 – Assertions and Exceptions
-• Assertions
-• Exceptions
-• Exception Examples
-Lecture 9 – Classes and Inheritance:
-• Object Oriented Programming
-• Class Instances
-• Methods
-• Classes Examples
-• Why OOP
-• Hierarchies
-• Your Own Types
-Lecture 10 – An Extended Example:
-• Building a Class
-• Viualizing the Hierarchy
-• Adding another Class
-• Using Inherited Methods
-• Gradebook Example
-• Generators
-Lecture 11 – Computational Complexity:
-• Program Efficiency
-• Big Oh Notation
-• Complexity Classes
-• Analyzing Complexity
-Lecture 12 – Searching and Sorting Algorithms:
-• Indirection
-• Linear Search
-• Bisection Search
-• Bogo and Bubble Sort
-• Selection Sort
-• Merge Sort
-Lecture 13 – Visualization of Data:
-• Visualizing Results
-• Overlapping Displays
-• Adding More Documentation
-• Changing Data Display
-• An Example
--->
+  - Problem 4: [The Game](https://github.com/jpacsai/MIT_IntroToCS/tree/master/Week3)
+
+## Week 4 - Good Programming Practices
+- [x] Lecture 7 - Testing and Debugging
+- [x] Lecture 8 - Exceptions and Assertions
+- [ ] **Problem Set 4:**
+  - Problem 1: Word Scores
+  - Problem 2: Dealing with Hands
+  - Problem 3: Valid Words
+  - Problem 4: Hand Length
+  - Problem 5: Playing a Hand
+  - Problem 6: Playing a Game
+  - Problem 7: You and your Computer
