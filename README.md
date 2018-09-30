@@ -30,7 +30,7 @@
 ## Week 4 - Good Programming Practices
 - [x] Lecture 7 - Testing and Debugging
 - [x] Lecture 8 - Exceptions and Assertions
-- [ ] **Problem Set 4:**
+- [x] **Problem Set 4:**
   - Problem 1: Word Scores
   - Problem 2: Dealing with Hands
   - Problem 3: Valid Words
