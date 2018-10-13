@@ -39,12 +39,17 @@
   - Problem 6: Playing a Game
   - Problem 7: You and your Computer
   
-  ## Week 5 - Object Oriented Programming
-  - [x] Lecture 9 - Classes and Inheritance
-  - [x] Lecture 10 - An Extended Expample
-  - [x] **Problem Set 5:**
-    - Problem 1: [Build the Shift Dictionary and Apply Shift](https://github.com/jpacsai/MIT_IntroToCS/blob/master/Week5/ProblemSet_5/Problem1.py)
-    - Problem 2: [PlaintextMessage](https://github.com/jpacsai/MIT_IntroToCS/blob/master/Week5/ProblemSet_5/Problem2.py)
-    - Problem 3: [CiphertextMessage](https://github.com/jpacsai/MIT_IntroToCS/blob/master/Week5/ProblemSet_5/Problem3.py)
-    - Problem 4: [Decrypt a Story](https://github.com/jpacsai/MIT_IntroToCS/blob/master/Week5/ProblemSet_5/Problem4.py)
-    - [complete problem](https://github.com/jpacsai/MIT_IntroToCS/blob/master/Week5/ProblemSet_5/ps6.py)
+## Week 5 - Object Oriented Programming
+- [x] Lecture 9 - Classes and Inheritance
+- [x] Lecture 10 - An Extended Expample
+- [x] **Problem Set 5:**
+  - Problem 1: [Build the Shift Dictionary and Apply Shift](https://github.com/jpacsai/MIT_IntroToCS/blob/master/Week5/ProblemSet_5/Problem1.py)
+  - Problem 2: [PlaintextMessage](https://github.com/jpacsai/MIT_IntroToCS/blob/master/Week5/ProblemSet_5/Problem2.py)
+  - Problem 3: [CiphertextMessage](https://github.com/jpacsai/MIT_IntroToCS/blob/master/Week5/ProblemSet_5/Problem3.py)
+  - Problem 4: [Decrypt a Story](https://github.com/jpacsai/MIT_IntroToCS/blob/master/Week5/ProblemSet_5/Problem4.py)
+  - [complete problem](https://github.com/jpacsai/MIT_IntroToCS/blob/master/Week5/ProblemSet_5/ps6.py)
+    
+## Week 6 - Algorithmic Complexity
+- [x] Lecture 11 - Computational Complexity
+- [x] Lecture 12 - Searching and Sorting Algorithms
+- [x] **Problem Set 6**
