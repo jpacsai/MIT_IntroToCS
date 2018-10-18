@@ -53,3 +53,6 @@
 - [x] Lecture 11 - Computational Complexity
 - [x] Lecture 12 - Searching and Sorting Algorithms
 - [x] **Problem Set 6**
+
+## Week 7 - Plotting
+- [x] Lecture 13 - Plotting
